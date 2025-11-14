@@ -16,7 +16,7 @@ interface MenuItem {
 }
 
 const INITIAL_MENU: MenuItem[] = [
-  { id: "1", name: "Espresso", description: "Rich and bold", price: 2.5, category: "coffee" },
+  { id: "1", name: "Espresso", description: "Rich and bold!", price: 2.5, category: "coffee" },
   { id: "2", name: "Cappuccino", description: "With foam", price: 4.0, category: "coffee" },
   { id: "3", name: "Croissant", description: "Buttery pastry", price: 3.5, category: "pastry" },
 ]
